@@ -1,6 +1,5 @@
 "use client";
 import Image from "next/image";
-import { signUp, signIn } from "@/modules/auth";
 
 export default function PortfolioPage() {
   return (
